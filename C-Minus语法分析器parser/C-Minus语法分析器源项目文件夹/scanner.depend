@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1573718986 source:c:\users\xx\desktop\scanner\util.c
+	"globals.h"
+	"util.h"
+	"scanner.h"
+
+1573629089 c:\users\xx\desktop\scanner\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1572183135 c:\users\xx\desktop\scanner\util.h
+
+1573612076 source:c:\users\xx\desktop\scanner\main.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
+1570015408 c:\users\xx\desktop\scanner\scanner.h
+
+1571023881 source:c:\users\xx\desktop\scanner\scan.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
+1573719339 source:c:\users\xx\desktop\scanner\parse.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+	"parse.h"
+
+1572754523 c:\users\xx\desktop\scanner\parse.h
+
+1573719339 source:e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\parse.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+	"parse.h"
+
+1573629089 e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1570015408 e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\scanner.h
+
+1572183135 e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\util.h
+
+1572754523 e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\parse.h
+
+1571023881 source:e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\scan.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
+1573718986 source:e:\学习\编译原理\作业\c-minus语法分析器源项目文件夹\util.c
+	"globals.h"
+	"util.h"
+	"scanner.h"
+
