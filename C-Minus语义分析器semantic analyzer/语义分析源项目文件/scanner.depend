@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1578062234 source:c:\users\xx\desktop\scanner\util.c
+	"globals.h"
+	"util.h"
+	"scanner.h"
+	"parse.h"
+
+1578319386 c:\users\xx\desktop\scanner\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1572183135 c:\users\xx\desktop\scanner\util.h
+
+1578110226 source:c:\users\xx\desktop\scanner\main.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+	"parse.h"
+	"analyze.h"
+
+1570015408 c:\users\xx\desktop\scanner\scanner.h
+
+1571023881 source:c:\users\xx\desktop\scanner\scan.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
+1578109961 source:c:\users\xx\desktop\scanner\parse.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+	"parse.h"
+
+1578108057 c:\users\xx\desktop\scanner\parse.h
+
+1578106643 c:\users\xx\desktop\scanner\analyze.h
+
+1578320687 source:c:\users\xx\desktop\scanner\symtab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"symtab.h"
+
+1578071582 c:\users\xx\desktop\scanner\symtab.h
+	"globals.h"
+
+1578320440 source:c:\users\xx\desktop\scanner\analyze.c
+	"globals.h"
+	"symtab.h"
+	"parse.h"
+	"analyze.h"
+
