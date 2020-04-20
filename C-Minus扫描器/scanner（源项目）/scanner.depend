@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1571023589 source:c:\users\xx\desktop\scanner\util.c
+	"globals.h"
+	"util.h"
+
+1570029870 c:\users\xx\desktop\scanner\globals.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1570021186 c:\users\xx\desktop\scanner\util.h
+
+1570029882 source:c:\users\xx\desktop\scanner\main.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
+1570015408 c:\users\xx\desktop\scanner\scanner.h
+
+1571023881 source:c:\users\xx\desktop\scanner\scan.c
+	"globals.h"
+	"scanner.h"
+	"util.h"
+
